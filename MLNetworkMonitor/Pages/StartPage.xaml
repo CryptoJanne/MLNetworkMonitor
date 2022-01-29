@@ -13,7 +13,7 @@
       </Style>
     </StackPanel.Styles>
     <StackPanel>
-      <TextBlock> asdfafsasd </TextBlock>
+      <TextBlock Name="Test" />
     </StackPanel>
     
   </StackPanel>
